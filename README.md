@@ -13,19 +13,6 @@ correspond à 0,087890625°, donc une séquence de 8 pas élémentaires (un pas 
 Avec 4096 / 8 = 512 pas complets on a 360°, donc un tour !
 La tension d'alimentation va de 5V à 12V.
 
-Séquences de commande :
-
-fils      1	2	3	4	5	6	7	8
-
-4 orange  x	x           x
-
-3 jaune   x	x	x
-
-2 rose          x	x	x
-
-1 bleu							x	x	x
-
-
 L'interface de commande est un ULN2003A monté sur un module chinois (banggood.com).
 
 L'exemple (moteur_pas_a_pas.ino) montre l'utilisation de cette classe.
