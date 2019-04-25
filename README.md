@@ -22,4 +22,6 @@ fils		1	2	3	4	5	6	7	8
 
 L'interface de commande est un ULN2003A monté sur un module chinois (banggood.com).
 
+L'example moteur_pas_a_pas.ino montre l'utilisation de cette classe.
+
 Copyleft Jean-Michel Ambroise
