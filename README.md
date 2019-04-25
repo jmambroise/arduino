@@ -14,6 +14,7 @@ Avec 4096 / 8 = 512 pas complets on a 360°, donc un tour !
 La tension d'alimentation va de 5V à 12V.
 
 Séquences de commande :
+
 fils		  1	2	3	4	5	6	7	8
 
 4 orange	x	x						x
