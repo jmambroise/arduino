@@ -15,10 +15,15 @@ La tension d'alimentation va de 5V à 12V.
 
 Séquences de commande :
 fils		  1	2	3	4	5	6	7	8
+
 4 orange	x	x						x
+
 3 jaune		x	x	x
+
 2 rose					x	x	x
+
 1 bleu							x	x	x
+
 
 L'interface de commande est un ULN2003A monté sur un module chinois (banggood.com).
 
